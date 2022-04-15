@@ -12,8 +12,8 @@ global.APIKeys = {
 
 //===> UBAH DISINI
 global.namaowner = 'Ryuuka Team' //Ganti Jadi Namamu
-global.owner = ['6285609233482','6283891921787'] //Kalo Mau Lebih Tambahin Aja
-global.nomerowner = '6285609233482' //Owner Utama Istilahnya
+global.owner = ['6281390650967','6283891921787'] //Kalo Mau Lebih Tambahin Aja
+global.nomerowner = '6288225413262' //Owner Utama Istilahnya
 global.namabot = 'RyuBotz MD' //Ganti Jadi Nama Botmu
 global.packname = '© Ryubotz MD' //Sticker Weem
 global.author = 'Ryubotz By Ryuuka Team' //Sticker Weem
